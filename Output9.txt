@@ -1,0 +1,3 @@
+Quiz_1    33
+Quiz_2    16
+Name: lessthan50, dtype: int64

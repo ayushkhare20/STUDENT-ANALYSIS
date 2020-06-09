@@ -1,0 +1,3 @@
+Quiz_1    20
+Quiz_2    34
+Name: greaterthan80, dtype: int64
